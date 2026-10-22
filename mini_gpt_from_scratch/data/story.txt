@@ -1,0 +1,2 @@
+Once upon a time, a tiny model learned to write stories from a single text file.
+It discovered that language is made of patterns, and patterns can be learned step by step.
